@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="btn_location">Обновить координаты</string>
+    <string name="txt_geo_1">Широта</string>
+    <string name="txt_geo_2">Долгота</string>
+    <string name="txt_date">Дата</string>
+    <string name="txt_time">Время</string>
+    <string name="btn_date">задать дату</string>
+    <string name="btn_time">задать время</string>
+</resources>
